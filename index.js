@@ -39,9 +39,8 @@ function makeInt(n)
 
 function preserveDecimal(n)
 {
-  parseInt('n')
   parseFloat('n')
-  return n;
+  return parseInt('n');
 }
 
 
